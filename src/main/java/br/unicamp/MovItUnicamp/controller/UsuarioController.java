@@ -1,8 +1,8 @@
 package br.unicamp.MovItUnicamp.controller;
 
-import br.unicamp.MovItUnicamp.usuario.DadosCadastroUsuario;
-import br.unicamp.MovItUnicamp.usuario.Usuario;
-import br.unicamp.MovItUnicamp.usuario.UsuarioRepository;
+import br.unicamp.MovItUnicamp.model.usuario.DadosCadastroUsuario;
+import br.unicamp.MovItUnicamp.model.usuario.Usuario;
+import br.unicamp.MovItUnicamp.model.usuario.UsuarioRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

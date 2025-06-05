@@ -1,4 +1,4 @@
-package br.unicamp.MovItUnicamp.bicicletas;
+package br.unicamp.MovItUnicamp.model.bicicletas;
 
 
 import jakarta.persistence.*;

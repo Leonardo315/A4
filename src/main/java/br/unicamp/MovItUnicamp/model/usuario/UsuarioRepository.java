@@ -1,4 +1,4 @@
-package br.unicamp.MovItUnicamp.usuario;
+package br.unicamp.MovItUnicamp.model.usuario;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

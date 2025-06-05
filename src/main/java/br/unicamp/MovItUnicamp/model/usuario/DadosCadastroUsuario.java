@@ -1,4 +1,4 @@
-package br.unicamp.MovItUnicamp.usuario;
+package br.unicamp.MovItUnicamp.model.usuario;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

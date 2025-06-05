@@ -1,8 +1,7 @@
-package br.unicamp.MovItUnicamp.usuario;
+package br.unicamp.MovItUnicamp.model.usuario;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.springframework.beans.factory.annotation.Autowired;
 
 @Getter
 @Setter

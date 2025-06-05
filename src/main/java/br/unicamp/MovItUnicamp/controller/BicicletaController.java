@@ -1,11 +1,10 @@
 package br.unicamp.MovItUnicamp.controller;
 
-import br.unicamp.MovItUnicamp.bicicletas.Bicicleta;
-import br.unicamp.MovItUnicamp.bicicletas.BicicletaRepository;
-import br.unicamp.MovItUnicamp.bicicletas.DadosCadastroBicicleta;
+import br.unicamp.MovItUnicamp.model.bicicletas.Bicicleta;
+import br.unicamp.MovItUnicamp.model.bicicletas.BicicletaRepository;
+import br.unicamp.MovItUnicamp.model.bicicletas.DadosCadastroBicicleta;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
